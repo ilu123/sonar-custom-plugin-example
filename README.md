@@ -17,3 +17,9 @@ Scripts
 * run "npm install" to setup your env
 * run "npm test" to trigger your tests
 * run "npm start" to start a proxy http server on port 3000 to debug your JS code
+
+Reference
+---------
+
+* https://docs.sonarqube.org/display/DEV/API+Basics
+* https://deors.wordpress.com/2014/03/20/sonarqube-plugins-1/
